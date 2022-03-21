@@ -1,0 +1,12 @@
+{
+	// DEAFULT SETTINGS
+	/*"color_scheme": "Mariana.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],*/
+	// GRUVBOX
+	"theme": "gruvbox.sublime-theme",
+  	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Soft).sublime-color-scheme",
+}
